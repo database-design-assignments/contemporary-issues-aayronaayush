@@ -4,7 +4,7 @@
 
 ## Aayush Aayron Deo aad598
 
-This document looks at two articles about data breaches, one article that addresses data breach due to the lack care on the user's side and the other articles looks at data breach of user information.
+This document looks at two artizzzcles about data breaches, one article that addresses data breach due to the lack care on the user's side and the other articles looks at data breach of user information.
 
 ### [Data Breaches Keep Happening. So Why Don’t You Do Something?](https://www.nytimes.com/2018/08/01/technology/data-breaches.html)
 
